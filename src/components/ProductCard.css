@@ -1,0 +1,37 @@
+.row-product {
+	border: 1px solid #ccc;
+	border-radius: 30px 30px 30px 30px;
+	margin-bottom: 30px !important;
+	background-color: white;
+	color: gray;
+	text-align: center;
+}
+
+.counter-product {
+	width: 30px;
+	height: 30px;
+	color: white;
+	background-color: #ed5356;
+	margin: 25px 20px 0px 20px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.border-rigth {
+	margin-top: 10px;
+	border-right: 1px solid #ccc;
+	display: grid;
+}
+
+.row-icon {
+	font-size: 2em !important;
+	width: 100% !important;
+}
+
+.bus-icon {
+	font-size: 4em !important;
+	margin: 10px 20px 0px 20px;
+}
+
+.container-price {
+	display: flex;
+}
